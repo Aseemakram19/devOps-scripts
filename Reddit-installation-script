@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#### this script author is Aseem Akram - Cloud Aseem Youtube channel #####
 # 1. jenkins installation on ubuntu 
 sudo apt update -y
 sleep 5
